@@ -40,4 +40,4 @@ CyberLink PowerDirector is a **multi-track video editing application** known for
 | PowerDirector 365                | Subscription bundle with PhotoDirector and extra content   |
 | PowerDirector Ultra / Ultimate    | Higher tiers with additional effect packs and tools          |
 
-\
+
